@@ -1,0 +1,10 @@
+pedestrian=行人
+people=人
+bicycle=自行车
+car=车
+van=面包车
+truck=卡车
+tricycle=三轮车
+awning-tricycle=带棚三轮车
+bus=大巴
+motor=摩托车
